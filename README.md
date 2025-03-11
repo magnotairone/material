@@ -1,4 +1,4 @@
-# slides
+# Slides
 
-# PPTs
-(https://shorturl.at/25nBH)[Estatística Aplicada I] 11/03/2025.
+- [Estatística Aplicada I](https://shorturl.at/25nBH) 11/03/2025 (PPT)
+- [Estatística Aplicada I]() (PDF)
