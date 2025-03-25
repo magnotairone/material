@@ -5,3 +5,5 @@
 
 
 - [Memo](https://insper-my.sharepoint.com/:p:/g/personal/magnotfs_insper_edu_br/EUUna1zHD1NPu79mix9Hf9sBUWgB1J6WpaYCKwBJer0geQ?e=ALpM8U)
+- [Pesquisa](https://rpubs.com/magnotfs/projeto_pesquisa)
+- [Aula 1](https://rpubs.com/magnotfs/aula1)
