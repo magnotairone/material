@@ -3,7 +3,11 @@
 - [Estatística Aplicada I](https://github.com/magnotairone/slides/blob/main/Apresenta%C3%A7%C3%A3o%20IME%20USP.pdf) (PDF)
 -->
 
-
+## Slides
 - [Memo](https://insper-my.sharepoint.com/:p:/g/personal/magnotfs_insper_edu_br/EUUna1zHD1NPu79mix9Hf9sBUWgB1J6WpaYCKwBJer0geQ?e=ALpM8U)
 - [Pesquisa](https://rpubs.com/magnotfs/projeto_pesquisa)
 - [Aula 1](https://rpubs.com/magnotfs/aula1)
+
+## Documentos
+- [Memo](https://github.com/magnotairone/material/blob/main/memorial.pdf)
+- [Pesquisa](https://github.com/magnotairone/material/blob/main/projeto_pesquisa.pdf)
