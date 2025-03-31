@@ -12,7 +12,7 @@
 # Slides PDF
 - [MEMO UNI](https://github.com/magnotairone/material/blob/main/memorial%202.pdf)
 - [MEMO TL](https://github.com/magnotairone/material/blob/main/Memorial%20PPT.pdf)
-- [Pesquisa](https://github.com/magnotairone/material/blob/main/Projeto%20de%20Pesquisa.pdf)
+- [Pesquisa](https://github.com/magnotairone/material/blob/main/Projeto%20de%20Pesquisa_PDF.pdf)
 
 ## Documentos
 - [Severino, 2025](https://github.com/magnotairone/material/blob/main/Severino25_SPA.pdf)
