@@ -15,5 +15,6 @@
 - [Pesquisa](https://github.com/magnotairone/material/blob/main/Projeto%20de%20Pesquisa.pdf)
 
 ## Documentos
+- [Severino, 2025](https://github.com/magnotairone/material/blob/main/Severino25_SPA.pdf)
 - [Memo](https://github.com/magnotairone/material/blob/main/memorial.pdf)
 - [Pesquisa](https://github.com/magnotairone/material/blob/main/projeto_pesquisa.pdf)
